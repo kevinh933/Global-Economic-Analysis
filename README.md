@@ -3,9 +3,14 @@ This is a data driven analysis of global development indicators to identify metr
 
 # Dataset and Metrics
 Dataset acquired from World health Organization (WHO) from 2000 to 2015
+
 -Life Expectancy
+
 -GDP per Capita
+
 -Years of Schooling
+
 -Body Mass Index (BMI)
+
 -Diseases (HIV cases)
 
